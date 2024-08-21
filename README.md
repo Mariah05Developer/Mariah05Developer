@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning multiple languages at a time. I have learned and dabbled in Python, Java, PHP, HTML, JavaScript, CSS, and C. My first langauge I learned was Visual basic which
 - made it easier to grasp the others.
 - 💞️ I’m looking to collaborate on projects and be able to learn more and have exposure to extensive repositories.
-- 📫 How to reach me by my email ( mariahjacksoncybersweep@gmai.com ) 
+- 📫 How to reach me by my email ( mariahjacksoncybersweep@gmail.com ) 
 - 😄 Pronouns:  She/her
 - ⚡ Fun fact: I am left handed and my favorite color is purple
 
